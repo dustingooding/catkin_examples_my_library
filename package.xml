@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>my_library</name>
+  <version>1.0.0</version>
+  <description>The my_library package</description>
+  <maintainer email="dustingooding@gmail.com">Dustin Gooding</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>boost</depend>
+</package>
